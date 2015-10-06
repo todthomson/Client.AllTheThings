@@ -194,6 +194,8 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+# Ignore all directories that are symlinks (as they are not supported by git)
 Client.Microservice1.Service
 Client.Microservice2.Service
 Client.Microservice3.Service
