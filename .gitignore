@@ -194,3 +194,6 @@ FakesAssemblies/
 
 # Visual Studio 6 workspace options file
 *.opt
+Client.Microservice1.Service
+Client.Microservice2.Service
+Client.Microservice3.Service
